@@ -1,0 +1,3 @@
+﻿  test.c
+F:\Code_C\test\malloc_calloc_realloc_Test\malloc_calloc_realloc_Test\test.c(16,9): warning C4133: “=”: 从“S *”到“int *”的类型不兼容
+  malloc_calloc_realloc_Test.vcxproj -> F:\Code_C\test\malloc_calloc_realloc_Test\x64\Debug\malloc_calloc_realloc_Test.exe
